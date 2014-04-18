@@ -55,16 +55,16 @@
     <string name="location_left" translatable="false">&lt;&lt;</string>
     <string name="location_right" translatable="false">&gt;&gt;</string>
     <string name="reset">默认</string>
-    <string name="toogle_last_app_help">选择程序列表</string>
+    <string name="toogle_last_app_help">切换到最后一个应用程序</string>
     <string name="kill_all_apps_help">杀死所有应用</string>
     <string name="kill_other_apps_help"></string>
     <string name="settings_help">设置</string>
-    <string name="home_help">家</string>
-    <string name="toogle_last_app">选择程序列表</string>
+    <string name="home_help">Home</string>
+    <string name="toogle_last_app">切换到最后一个应用程序</string>
     <string name="kill_all_apps">杀死所有应用</string>
     <string name="kill_other_apps">杀死其他应用</string>
     <string name="settings">设置</string>
-    <string name="home">家</string>
+    <string name="home">Home</string>
     <string name="buttons_title">按键</string>
     <string name="buttons_summary">要显示的按键</string>
     <string name="auto_hide_handle">自动隐藏</string>
